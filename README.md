@@ -5,4 +5,6 @@ Jupyter notebooks are provided to help participants get started with:
 * Loading and viewing data from the [ACDC](https://www.creatis.insa-lyon.fr/Challenge/acdc/) data set
 * Setting up a minimal example to train a U-Net using PyTorch and MONAI
 
+The notebook assumes that you have a Python distribution (such as [Anaconda](https://www.anaconda.com/products/individual)) and [JupyterLab](https://jupyter.org/) installed. Moreover, it requires [PyTorch](https://pytorch.org/) to be installed. 
 
+<img src="CineMR.png" alt="Cine MR image" width="500">
