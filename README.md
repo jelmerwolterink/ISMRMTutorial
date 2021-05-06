@@ -7,4 +7,4 @@ Jupyter notebooks are provided to help participants get started with:
 
 The notebook assumes that you have a Python distribution (such as [Anaconda](https://www.anaconda.com/products/individual)) and [JupyterLab](https://jupyter.org/) installed. Moreover, it requires [PyTorch](https://pytorch.org/) to be installed. 
 
-<img src="CineMR.png" alt="Cine MR image" width="800">
+<img src="CineMR.png" alt="Cine MR image" width="1000">
