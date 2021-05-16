@@ -9,4 +9,7 @@ The notebook assumes that you have a Python distribution (such as [Anaconda](htt
 
 Please use the GitHub Discussions feature (check out the menu bar above) to share your thoughts.
 
+## Variational auto-encoder
+A second part of the ISMRM 2021 machine learning focuses on variational auto-encoder training with the same data, set up by Thomas Joyce. This tutorial can be found [here](https://gitlab.ethz.ch/joycet/cardiacvae).
+
 <img src="CineMR.png" alt="Cine MR image" width="1000">
